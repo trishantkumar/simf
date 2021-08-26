@@ -77,7 +77,7 @@
                     </v-card>
                 </v-dialog>
               </v-app-bar>
-                <Products :productData="productData.productData"/>
+              <Products :productData="productData.productData"/>
             </v-card>
           </v-col>
         </v-row>
