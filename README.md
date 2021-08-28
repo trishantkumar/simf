@@ -26,7 +26,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # simf
 
-for login - 
+for login
 ===========
 username - tanu
 ============
